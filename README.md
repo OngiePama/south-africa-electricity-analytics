@@ -129,8 +129,6 @@ The electricity generation mix between **2000 and 2021** shows that coal consist
 
 From 2014 onwards, renewable generation gradually increased each year, indicating that South Africa had begun diversifying its electricity generation portfolio. However, despite this progress, coal remained the dominant source of electricity generation by 2021.
 
-**Business Insight**
-
 The findings indicate that although investment in renewable energy has increased over time, South Africa's electricity system continues to rely heavily on coal, highlighting both the progress made towards diversification and the ongoing dependence on conventional energy sources.
 
 ---
@@ -143,8 +141,6 @@ The **residential sector** represented the second-largest consumer at approximat
 
 Agriculture, transport, and non-specified sectors accounted for only a relatively small proportion of total electricity consumption.
 
-**Business Insight**
-
 The findings demonstrate that industrial activity is the primary driver of electricity demand in South Africa. Consequently, improvements in industrial energy efficiency have the potential to produce the greatest reductions in national electricity consumption.
 
 ---
@@ -156,8 +152,6 @@ The comparison between electricity generation and electricity consumption per ca
 Electricity generation increased steadily during the early 2000s before stabilising around the mid-to-late 2000s, with only moderate fluctuations thereafter.
 
 In contrast, electricity consumption per capita increased until approximately **2007**, after which it followed a gradual downward trend through to the end of the available dataset.
-
-**Business Insight**
 
 The analysis suggests that while electricity generation remained relatively stable after the mid-2000s, electricity consumption per capita declined over time. However, because the visualisation compares two different units of measurement (total electricity generated and electricity consumption per capita), it should not be interpreted as evidence that electricity generation exceeded or fell below electricity demand.
 
