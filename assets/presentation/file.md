@@ -1,4 +1,4 @@
-# 📽 Original Project Presentation
+# 📽 Project Presentation
 
 This folder contains the original presentation created for the university project.
 
