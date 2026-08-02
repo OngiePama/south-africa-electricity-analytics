@@ -88,7 +88,7 @@ This project explored the following questions:
 ## ⚡ Electricity Generation Sources
 
 <p align="center">
-<img src="assets/visualisations/electricity-generation-sources.png" width="600">
+<img src="assets/visualisations/electricity-generation-sources.png" height="400" width="800">
 </p>
 
 ### Purpose
@@ -100,7 +100,7 @@ Understand South Africa's electricity generation mix and identify the country's 
 ## 🏭 Electricity Consumption by Sector
 
 <p align="center">
-<img src="assets/visualisations/electricity-consumption-sector.png" width="600">
+<img src="assets/visualisations/electricity-consumption-sector.png" width="800">
 </p>
 
 ### Purpose
@@ -112,7 +112,7 @@ Identify which sectors contribute most significantly to electricity demand.
 ## ⚖️ Electricity Generation vs Consumption
 
 <p align="center">
-<img src="assets/visualisations/generation-vs-consumption.png" width="600">
+<img src="assets/visualisations/generation-vs-consumption.png" width="800">
 </p>
 
 ### Purpose
