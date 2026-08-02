@@ -143,29 +143,6 @@ Based on the analysis, the following recommendations were proposed:
 
 ---
 
-# 📂 Repository Structure
-
-```text
-South-Africa-Electricity-Analytics/
-│
-├── README.md
-│
-├── assets/
-│   ├── hero/
-│   └── visualizations/
-│
-└── docs/
-    ├── business-context.md
-    ├── business-problem.md
-    ├── dataset.md
-    ├── methodology.md
-    ├── analysis.md
-    ├── recommendations.md
-    └── reflection.md
-```
-
----
-
 # 📚 Repository Navigation
 
 | Document | Description |
@@ -186,11 +163,9 @@ South-Africa-Electricity-Analytics/
 
 <img src="https://img.shields.io/badge/Microsoft-PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white">
 
-<img src="https://img.shields.io/badge/Data-Visualisation-43A047?style=for-the-badge">
+<img src="https://img.shields.io/badge/Tableau-Prep-43A047?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Business-Analytics-1565C0?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Team-Project-6A1B9A?style=for-the-badge">
+<img src="https://img.shields.io/badge/Tableau-Desktop-1565C0?style=for-the-badge">
 
 </p>
 
@@ -205,7 +180,7 @@ South-Africa-Electricity-Analytics/
 - Critical Thinking
 - Strategic Decision-Making
 - Business Communication
-- Information Systems
+- Team Collaboration
 
 ---
 
