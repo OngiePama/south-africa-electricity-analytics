@@ -88,7 +88,7 @@ This project explored the following questions:
 ## ⚡ Electricity Generation Sources
 
 <p align="center">
-<img src="assets/visualisations/electricity-generation-sources.png" height="700" width="900">
+<img src="assets/visualisations/electricity-generation-sources.png" width="900">
 </p>
 
 ### Purpose
