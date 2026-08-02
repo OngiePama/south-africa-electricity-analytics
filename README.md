@@ -199,20 +199,6 @@ Data-driven decision-making can support more effective infrastructure planning, 
 
 ---
 
-# 📚 Repository Navigation
-
-| Document | Description |
-|----------|-------------|
-| 📘 **Business Context** | Overview of South Africa's electricity sector and Eskom's role. |
-| ⚠️ **Business Problem** | The operational challenges affecting electricity generation and distribution. |
-| 🗃️ **Dataset** | Description of the data used and its limitations. |
-| 🔬 **Methodology** | The analytical approach followed during the project. |
-| 📊 **Analysis** | Detailed discussion of each visualisation and its insights. |
-| 💡 **Recommendations** | Business recommendations based on the findings. |
-| 🎓 **Reflection** | Lessons learned and opportunities for future improvements. |
-
----
-
 # 🛠️ Tools Used
 
 <p align="left">
