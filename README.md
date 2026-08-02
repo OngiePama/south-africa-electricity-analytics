@@ -1,187 +1,170 @@
+⚡ South Africa Electricity Analytics
+
+A Business Analytics Case Study on Electricity Generation, Consumption, and Load Shedding in South Africa
+
 <p align="center">
-  <img src="assets/hero/hero-banner.png" alt="South Africa Electricity Analytics Banner">
+  <img src="assets/hero/hero-banner.png" alt="South Africa Electricity Analytics Banner" width="100%">
 </p>
 
-# ⚡ South Africa Electricity Analytics
+⸻
 
-> **Analysing South Africa's electricity generation, consumption, and load shedding trends to support data-driven decision making in the energy sector.**
+📖 Overview
 
----
+South Africa’s electricity sector continues to face significant operational challenges, including constrained generation capacity, increasing electricity demand, ageing infrastructure, and recurring load shedding. As the country’s primary electricity supplier, Eskom plays a central role in balancing electricity generation and national consumption while maintaining grid stability.
 
-## 📖 Overview
+This project explores electricity generation sources, sectoral electricity consumption, and the relationship between electricity generation and demand to identify insights that can support more informed decision-making and long-term energy planning.
 
-South Africa has experienced persistent electricity supply challenges due to increasing demand, ageing infrastructure, operational inefficiencies, and the continued impact of load shedding.
+Project Attribution
 
-This project explores electricity generation and consumption patterns to better understand the country's energy landscape and identify opportunities for improving energy planning and sustainability.
+This repository documents a collaborative university data analytics project completed as part of a team. The repository has been restructured into a professional portfolio case study to showcase the project’s analytical approach, findings, and recommendations.
 
-> **Team Project**
->
-> This repository documents a collaborative university data analytics project. It has been adapted into a professional portfolio case study to demonstrate the analytical approach, findings, and business recommendations developed by the team.
+⸻
 
----
+📊 Project Summary
 
-# 📋 Project Summary
+Category	Details
+Project Type	Business Analytics Case Study
+Industry	Energy & Utilities
+Organisation	Eskom
+Topic	Electricity Generation, Consumption & Load Shedding
+Project Format	Team Project
+Role	Team Member
+Tools	Microsoft PowerPoint, Tableau Prep: Data Cleaning,Tableau Desktop: Data Visualisations
+Repository Purpose	Professional Portfolio Documentation
 
-| Category | Details |
-|-----------|----------|
-| **Project Type** | Business Analytics Case Study |
-| **Industry** | Energy |
-| **Domain** | Electricity Distribution |
-| **Project Format** | University Team Project |
-| **Tools** | Microsoft PowerPoint, Microsoft Excel |
-| **Focus** | Electricity Generation, Consumption & Load Shedding |
+⸻
 
----
+🎯 Business Problem
 
-# 🎯 Business Problem
+South Africa’s electricity system has experienced persistent challenges in balancing electricity generation with growing demand. These challenges contribute to recurring load shedding, economic disruption, and increased pressure on critical infrastructure.
 
-South Africa's electricity system has struggled to meet national demand, resulting in frequent load shedding and significant economic disruption.
+Understanding electricity generation patterns and consumption behaviour is essential for identifying opportunities to improve operational planning, infrastructure investment, and long-term energy sustainability.
 
-Understanding electricity generation sources and consumption patterns is essential for supporting strategic planning, infrastructure investment, and long-term energy sustainability.
+⸻
 
-This project investigates these challenges through data analysis and business-focused interpretation.
+❓ Business Questions
 
----
+This project explored the following questions:
 
-# ❓ Business Questions
+* How is electricity generated in South Africa?
+* Which sectors consume the largest share of electricity?
+* How does electricity generation compare with national electricity consumption?
+* What insights can support more sustainable electricity planning?
+* What recommendations could improve South Africa’s electricity future?
 
-This project aimed to answer the following questions:
+⸻
 
-- How is electricity generated in South Africa?
-- Which sectors consume the most electricity?
-- How does electricity generation compare with national demand?
-- What insights can support better energy planning?
-- What recommendations can improve long-term electricity sustainability?
+📈 Visualisation Highlights
 
----
-
-# 📊 Visualisation Preview
-
-## Electricity Generation Sources
+1. Electricity Generation Sources
 
 <p align="center">
 <img src="assets/visualizations/electricity-generation-sources.png" width="850">
 </p>
 
----
+Purpose
 
-## Electricity Consumption by Sector
+To understand the composition of South Africa’s electricity generation mix.
+
+⸻
+
+2. Electricity Consumption by Sector
 
 <p align="center">
 <img src="assets/visualizations/electricity-consumption-sector.png" width="850">
 </p>
 
----
+Purpose
 
-## Electricity Generation vs Electricity Consumption
+To identify which sectors contribute most significantly to national electricity demand.
+
+⸻
+
+3. Electricity Generation vs Electricity Consumption
 
 <p align="center">
 <img src="assets/visualizations/generation-vs-consumption.png" width="850">
 </p>
 
----
+Purpose
 
-# 🔑 Key Findings
+To compare electricity production with national demand and identify potential supply gaps.
 
-The analysis identified several important observations:
+⸻
 
-- Coal remains South Africa's primary source of electricity generation.
-- Electricity demand continues to place significant pressure on national generation capacity.
-- Certain sectors account for a substantial proportion of electricity consumption.
-- Improving energy diversification is critical for long-term sustainability.
-- Data-driven planning can support more effective energy management.
+🔑 Key Findings
 
----
+The project highlighted several important observations:
 
-# 💡 Recommendations
+* South Africa’s electricity generation remains heavily dependent on conventional energy sources.
+* Electricity demand varies considerably across economic sectors.
+* Electricity generation and national demand must remain closely balanced to maintain supply reliability.
+* Long-term infrastructure planning and energy diversification are essential for improving electricity security.
 
-Based on the analysis, the project recommends:
+⸻
 
-- Increase investment in renewable energy sources.
-- Modernise ageing electricity infrastructure.
-- Improve maintenance planning for generation facilities.
-- Expand energy storage capabilities.
-- Strengthen governance and operational efficiency.
-- Encourage more efficient electricity consumption across sectors.
+💡 Recommendations
 
----
+Based on the analysis, several recommendations were identified:
 
-# 📂 Repository Structure
+* Increase investment in renewable energy sources.
+* Modernise ageing electricity infrastructure.
+* Improve maintenance planning for generation facilities.
+* Strengthen governance and operational efficiency within the electricity sector.
+* Encourage more efficient electricity consumption across industries and households.
+* Expand investment in energy storage and future electricity technologies.
 
-```text
-.
-├── README.md
-├── assets
-│   ├── hero
-│   └── visualizations
-└── docs
-    ├── business-context.md
-    ├── business-problem.md
-    ├── dataset.md
-    ├── methodology.md
-    ├── analysis.md
-    ├── recommendations.md
-    └── reflection.md
-```
+⸻
 
----
+🗂 Repository Navigation
 
-# 📚 Documentation
+Section	Description
+📘 Business Context	Overview of South Africa’s electricity sector and Eskom’s role.
+⚠️ Business Problem	Challenges affecting electricity generation and supply.
+🗃️ Dataset	Overview of the data used and its limitations.
+🔬 Methodology	Analytical approach followed during the project.
+📊 Analysis	Discussion of each visualisation and the insights obtained.
+💡 Recommendations	Proposed strategies based on the analysis.
+🎓 Reflection	Lessons learned and opportunities for future improvement.
 
-| Section | Description |
-|----------|-------------|
-| 📖 [Business Context](docs/business-context.md) | Background on South Africa's electricity sector and the role of analytics. |
-| 🎯 [Business Problem](docs/business-problem.md) | Defines the analytical problem and project objectives. |
-| 🗂️ [Dataset](docs/dataset.md) | Overview of the data used, variables, and limitations. |
-| ⚙️ [Methodology](docs/methodology.md) | Analytical approach followed throughout the project. |
-| 📊 [Analysis](docs/analysis.md) | Detailed discussion of each visualisation and the insights generated. |
-| 💡 [Recommendations](docs/recommendations.md) | Business recommendations derived from the findings. |
-| 🎓 [Reflection](docs/reflection.md) | Lessons learned and opportunities for future improvement. |
+⸻
 
----
-
-# 🛠️ Tools Used
+🛠 Tools Used
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=excel" />
-
+<img src="https://img.shields.io/badge/Microsoft-PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white">
+<img src="https://img.shields.io/badge/Data-Visualisation-4CAF50?style=for-the-badge">
+<img src="https://img.shields.io/badge/Business-Analytics-1565C0?style=for-the-badge">
+<img src="https://img.shields.io/badge/Team-Project-6A1B9A?style=for-the-badge">
 </p>
 
-- 📊 Microsoft Excel
-- 📈 Data Visualisation
-- 📑 Microsoft PowerPoint
-- 📊 Business Analytics
+⸻
 
----
+📚 Key Skills Demonstrated
 
-# 🚀 Future Improvements
+* Business Analysis
+* Data Interpretation
+* Data Visualisation
+* Critical Thinking
+* Strategic Recommendation Development
+* Analytical Communication
+* Information Systems
 
-Future iterations of this project could include:
+⸻
 
-- Interactive Power BI dashboard
-- Tableau dashboard implementation
-- Time-series forecasting
-- Machine learning models for electricity demand prediction
-- Real-time electricity monitoring
-- Geospatial analysis of electricity distribution
-- Additional public datasets for richer analysis
+🚀 Future Improvements
 
----
+If this project were expanded further, future work could include:
 
-# 📌 Key Skills Demonstrated
+* Interactive Power BI or Tableau dashboards.
+* Time-series analysis of electricity generation and demand.
+* Forecasting future electricity demand.
+* Regional analysis of electricity consumption.
+* Integration of live energy data.
+* Predictive analytics to support electricity planning.
 
-- Business Analytics
-- Data Interpretation
-- Data Visualisation
-- Business Problem Analysis
-- Insight Generation
-- Strategic Recommendations
-- Technical Communication
-- Team Collaboration
+⸻
 
----
+⭐ About this Repository
 
-## 📄 License
-
-This project is shared for educational and portfolio purposes.
+This repository forms part of my professional portfolio as an Information Systems Professional and demonstrates my ability to communicate business problems, interpret analytical findings, and present data-driven recommendations through a structured case study.
