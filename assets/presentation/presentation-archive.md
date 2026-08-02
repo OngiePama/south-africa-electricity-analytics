@@ -115,11 +115,3 @@ While the repository has been restructured into a professional business analytic
 <p align="center">
 <img src="slide-14.png" width="900">
 </p>
-
----
-
-## Slide 15
-
-<p align="center">
-<img src="slide-15.png" width="900">
-</p>
