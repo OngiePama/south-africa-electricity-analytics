@@ -123,97 +123,86 @@ Compare electricity production with national electricity demand to understand su
 
 # 🔑 Key Findings
 
-### ⚡ 1. South Africa's Electricity Generation is Dominated by Coal
+## ⚡ 1. Coal Remained South Africa's Primary Electricity Generation Source Throughout the Study Period
 
-The analysis shows that South Africa generates the majority of its electricity from coal-fired power stations, making coal the country's primary energy source. While renewable energy sources such as wind and solar contribute to the national electricity mix, their contribution remains comparatively small.
+The electricity generation mix between **2000 and 2021** shows that coal consistently accounted for the overwhelming majority of South Africa's electricity generation. While nuclear energy provided a relatively stable secondary source throughout the period, renewable energy technologies such as wind, solar photovoltaic (PV), and solar thermal only began appearing around **2014**.
 
-This reliance on coal creates long-term challenges related to ageing infrastructure, environmental sustainability, and the reliability of electricity supply.
+From 2014 onwards, renewable generation gradually increased each year, indicating that South Africa had begun diversifying its electricity generation portfolio. However, despite this progress, coal remained the dominant source of electricity generation by 2021.
 
----
+**Business Insight**
 
-### 🏭 2. Industrial Activity Represents the Largest Consumer of Electricity
-
-Electricity consumption is not evenly distributed across sectors. The analysis indicates that industrial and commercial activities account for a significant proportion of South Africa's electricity demand, highlighting the country's dependence on electricity to support economic production.
-
-Residential and other sectors consume comparatively less electricity but still contribute substantially to overall national demand.
-
-Understanding sector-specific consumption patterns can help policymakers and utility providers prioritise demand management strategies and improve energy efficiency initiatives.
+The findings indicate that although investment in renewable energy has increased over time, South Africa's electricity system continues to rely heavily on coal, highlighting both the progress made towards diversification and the ongoing dependence on conventional energy sources.
 
 ---
 
-### ⚖️ 3. Electricity Supply Continues to Face Pressure from National Demand
+## 🏭 2. The Industrial Sector Consumed the Largest Share of Electricity
 
-Comparing electricity generation with national electricity consumption demonstrates the constant challenge of balancing electricity supply with demand.
+The sectoral electricity consumption analysis shows that the **industrial sector** was by far the largest consumer of electricity during the study period, with an average consumption of approximately **360,000 TWh**.
 
-Periods where electricity demand approaches or exceeds available generation capacity increase pressure on the national grid and contribute to the implementation of load shedding.
+The **residential sector** represented the second-largest consumer at approximately **170,000 TWh**, followed by the **commercial and public services sector**, which averaged around **130,000 TWh**.
 
-Maintaining an adequate balance between electricity generation and consumption is essential for ensuring grid stability and reducing electricity shortages.
+Agriculture, transport, and non-specified sectors accounted for only a relatively small proportion of total electricity consumption.
 
----
+**Business Insight**
 
-### 🌱 4. Energy Diversification is Critical for Long-Term Sustainability
-
-The findings suggest that expanding renewable energy sources and reducing dependence on conventional electricity generation will be important for improving South Africa's long-term energy resilience.
-
-Diversifying the country's energy mix can improve electricity security, reduce pressure on ageing infrastructure, and contribute to a more sustainable electricity system.
+The findings demonstrate that industrial activity is the primary driver of electricity demand in South Africa. Consequently, improvements in industrial energy efficiency have the potential to produce the greatest reductions in national electricity consumption.
 
 ---
 
-### 📊 5. Data Analytics Supports Better Energy Decision-Making
+## 📈 3. Electricity Generation and Electricity Consumption Follow Different Long-Term Trends
 
-The visualisations demonstrate how business analytics can transform complex electricity data into meaningful insights that support strategic decision-making.
+The comparison between electricity generation and electricity consumption per capita indicates two distinct trends over time.
 
-Analysing electricity generation and consumption patterns enables stakeholders to identify operational challenges, understand demand trends, and develop evidence-based recommendations for improving South Africa's electricity sector.
+Electricity generation increased steadily during the early 2000s before stabilising around the mid-to-late 2000s, with only moderate fluctuations thereafter.
+
+In contrast, electricity consumption per capita increased until approximately **2007**, after which it followed a gradual downward trend through to the end of the available dataset.
+
+**Business Insight**
+
+The analysis suggests that while electricity generation remained relatively stable after the mid-2000s, electricity consumption per capita declined over time. However, because the visualisation compares two different units of measurement (total electricity generated and electricity consumption per capita), it should not be interpreted as evidence that electricity generation exceeded or fell below electricity demand.
 
 ---
 
 # 💡 Recommendations
 
-### 🌱 1. Accelerate Investment in Renewable Energy
+## 🌱 Continue Expanding Renewable Energy Investment
 
-The analysis highlights South Africa's heavy reliance on coal as its primary source of electricity generation. Expanding renewable energy sources such as solar, wind, and hydroelectric power would diversify the country's energy mix, reduce dependence on ageing coal-fired power stations, and improve long-term energy sustainability.
+The visualisation demonstrates that renewable electricity sources, including wind and solar technologies, began contributing to South Africa's electricity generation from approximately **2014** onwards.
 
-Increasing renewable generation capacity would also strengthen energy security and contribute to reducing greenhouse gas emissions.
-
----
-
-### 🏗️ 2. Modernise and Maintain Existing Electricity Infrastructure
-
-Ageing infrastructure remains one of the major contributors to electricity supply disruptions. Eskom should continue investing in preventative maintenance, infrastructure upgrades, and the replacement of ageing generation equipment to improve operational reliability.
-
-A proactive maintenance strategy can reduce unplanned outages, improve plant availability, and support a more stable electricity supply.
+Although these sources remain considerably smaller than coal, their continued growth indicates positive progress towards a more diversified electricity generation mix. Continued investment in renewable energy would further reduce dependence on coal while improving long-term energy sustainability.
 
 ---
 
-### ⚖️ 3. Strengthen Electricity Supply Planning
+## 🏭 Prioritise Energy Efficiency Within the Industrial Sector
 
-The comparison between electricity generation and national demand demonstrates the importance of maintaining an appropriate balance between available generation capacity and electricity consumption.
+Since the industrial sector represents the largest consumer of electricity by a substantial margin, energy efficiency initiatives should primarily target industrial operations.
 
-Improved forecasting, demand planning, and resource allocation can enable Eskom to anticipate periods of increased demand and make more informed operational decisions to minimise the need for load shedding.
-
----
-
-### 🏭 4. Promote Energy Efficiency Across High-Consumption Sectors
-
-The analysis shows that industrial and commercial sectors account for a substantial share of electricity consumption. Encouraging energy-efficient technologies, demand-side management programmes, and responsible electricity usage within these sectors can help reduce pressure on the national grid.
-
-Improving energy efficiency allows economic activity to continue while lowering overall electricity demand.
+Investments in energy-efficient manufacturing technologies, process optimisation, and demand-side management could significantly reduce national electricity demand while maintaining economic productivity.
 
 ---
 
-### 📊 5. Use Data Analytics to Support Decision-Making
+## 🏠 Encourage Residential Energy Efficiency
 
-Business analytics should continue to play a central role in monitoring electricity generation, consumption, and operational performance.
+The residential sector represents the second-largest consumer of electricity.
 
-Interactive dashboards and performance monitoring systems can provide decision-makers with timely insights, helping them identify emerging trends, monitor infrastructure performance, and evaluate the effectiveness of operational strategies.
+Public awareness campaigns, energy-efficient appliances, smart metering, and household energy-saving programmes could reduce residential electricity demand while supporting more sustainable electricity consumption.
 
 ---
 
-### 🔋 6. Invest in Future Energy Technologies
+## 📊 Continue Monitoring Long-Term Electricity Trends
 
-To improve the long-term resilience of South Africa's electricity system, continued investment in energy storage technologies, smart grid infrastructure, and emerging energy solutions should be prioritised.
+The comparison between electricity generation and electricity consumption highlights the importance of monitoring long-term energy trends.
 
-These technologies can improve grid flexibility, better integrate renewable energy sources, and strengthen the country's ability to meet future electricity demand.
+Expanding this analysis with more recent data and additional operational indicators—such as generation capacity, plant availability, and transmission performance—would provide decision-makers with a more comprehensive understanding of South Africa's electricity system.
+
+---
+
+## ⚡ Strengthen Energy Planning Through Data Analytics
+
+Business intelligence dashboards and continuous monitoring systems should be used to track electricity generation, consumption, and changes in the national energy mix.
+
+Data-driven decision-making can support more effective infrastructure planning, identify emerging trends, and improve strategic planning within the electricity sector.
+
 ---
 
 # 📚 Repository Navigation
